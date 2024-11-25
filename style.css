@@ -1,0 +1,103 @@
+html {
+    font-family: Montserrat;
+    background-color: rgb(89, 133, 199);
+}
+
+td, th  {
+    border: 1px solid rgb(190,190,190);
+    padding: 10px 20px;
+    background-color: white;
+    color: black;
+}
+
+.top {
+    background-color:rgb(89, 133, 199);
+    padding: 20px;
+}
+
+.container {
+
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+table {
+    border-collapse: separate;
+    border: 3px solid black;
+    margin: 0 auto;
+    border-spacing: 0;
+    border-radius: 10px;
+}
+
+td {
+    text-align: center;
+}
+
+h5 {
+    text-decoration: none;
+}
+
+.tabla1 {
+    margin-bottom: 20px;
+}
+
+.patio {
+    background-color: gray;
+    font-style: italic;
+}
+
+.mp04 {
+    background-color: rgb(212, 212, 212);
+}
+
+.mp06 {
+    background-color: aquamarine;
+}
+
+.mp07 {
+    background-color: rgb(212, 181, 123);
+}
+
+.mp08 {
+    background-color: rgb(99, 128, 99);
+}
+
+.mp10 {
+    background-color: rgb(172, 101, 101);
+}
+
+.tabla table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 16px;
+    text-align: left;
+}
+
+.tabla th {
+    background-color: #3778c2;
+    color: white;
+    padding: 10px;
+}
+
+.tabla td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.tabla tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.tabla tr:hover {
+    background-color: #ddd;
+}
+
+.top {
+    text-align: center;
+}
+
+
+
